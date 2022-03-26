@@ -1,5 +1,5 @@
 #include<iostream>
-
+//This is useful program //
 using namespace std ;
 
 class Node
